@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name_complete">Dicoding - Bab3 - Modul1 - Github User</string>
+    <string name="app_name">Github User</string>
+    <string name="app_desc">"Lists all github users"</string>
+</resources>
